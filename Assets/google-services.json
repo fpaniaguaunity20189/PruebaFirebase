@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "551197462940",
+    "firebase_url": "https://unity-demo-babf8.firebaseio.com",
+    "project_id": "unity-demo-babf8",
+    "storage_bucket": "unity-demo-babf8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:551197462940:android:78fc30b763a5d4fd",
+        "android_client_info": {
+          "package_name": "com.fernandopaniagua.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "551197462940-l3jp4rc0mfed2kvqd1hccc1qjs50prfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjcsssSLdpfHRfitji7eLu3MTJ7MrAVnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
